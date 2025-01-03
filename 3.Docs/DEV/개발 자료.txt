@@ -1,0 +1,4 @@
+I AM 역할 전환 설명
+https://riman-it.atlassian.net/wiki/spaces/INFRA/pages/923960344/AWS+IAM
+mac 공용폴더 접급방법
+컨트롤 + k => smb://192.168.0.30s
